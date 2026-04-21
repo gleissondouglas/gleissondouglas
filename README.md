@@ -31,9 +31,6 @@ I enjoy building practical projects, solving problems, improving my English, and
 
 ## 📌 Featured Projects
 
-### 🔹 [Notes API](https://github.com/gleissondouglas/notes-api)
-API for note management with basic CRUD operations.
-
 ### 🔹 [RotaBus API](https://github.com/gleissondouglas/RotaBus-API)
 API project focused on bus routes and transport service logic.
 
