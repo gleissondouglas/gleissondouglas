@@ -68,15 +68,6 @@ Back-end API for public transport route planning.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gleissondouglas&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissondouglas&layout=compact" />
-</div>
-
----
-
 ## 🤝 Connect with me
 
 <div align="left">
