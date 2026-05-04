@@ -2,7 +2,7 @@
 
 # Hello, I'm Gleisson Douglas 👋
 
-### Back-end developer • ADS student • Passionate about coding and English
+### Back-end developer • Systems Analysis and Development student • Passionate about coding and English
 
 </div>
 
@@ -10,21 +10,21 @@
 
 ## 👨‍💻 About me
 
-I'm an ADS student focused on back-end development.  
-I enjoy building practical projects, solving problems, improving my English, and learning new technologies step by step.
+I'm a Systems Analysis and Development student focused on back-end development.  
+I enjoy building practical APIs, organizing code with clean architecture principles, working with databases, and improving my technical English every day.
 
-- 🎓 ADS student
+- 🎓 Systems Analysis and Development student
 - 💻 Focused on back-end development
-- 📚 Currently learning more about JavaScript, Node.js, APIs, Git, GitHub, and databases
+- 🧠 Learning software architecture, APIs, databases, and authentication
 - 🌍 Passionate about technology and English
-- 🚀 Building projects to become a stronger developer
+- 🚀 Building real projects to become a stronger developer
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode,express," />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,vscode" />
 </div>
 
 ---
@@ -32,7 +32,18 @@ I enjoy building practical projects, solving problems, improving my English, and
 ## 📌 Featured Projects
 
 ### 🔹 [RotaBus API](https://github.com/gleissondouglas/RotaBus-API)
-API project focused on bus routes and transport service logic.
+
+Back-end API for public transport route planning.
+
+**Main features:**
+- User registration
+- Login with JWT authentication
+- Protected journey routes
+- Google Routes API integration
+- PostgreSQL database with Prisma ORM
+- Modular architecture with routes, controllers, services, validators, repositories, providers, and mappers
+
+**Tech stack:** Node.js, Express, PostgreSQL, Prisma, JWT, bcrypt, Google Routes API
 
 ---
 
@@ -46,22 +57,23 @@ API project focused on bus routes and transport service logic.
 
 ---
 
+## 📚 Currently Learning
+
+- REST APIs
+- Authentication with JWT
+- PostgreSQL and Prisma ORM
+- Clean code practices
+- Back-end project structure
+- English for technology
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gleissondouglas&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleissondouglas&layout=compact" />
 </div>
-
----
-
-## 📚 Currently Learning
-
-- REST APIs
-- Clean code practices
-- SQL and databases
-- Back-end project structure
-- English for technology
 
 ---
 
