@@ -2,7 +2,7 @@
 
 # Hello, I'm Gleisson Douglas 👋
 
-### Back-end developer • Systems Analysis and Development student • Passionate about coding and English
+### macOS & iOS Developer • Back-End Developer • Systems Analysis and Development Student
 
 </div>
 
@@ -10,68 +10,81 @@
 
 ## 👨‍💻 About me
 
-I'm a Systems Analysis and Development student focused on back-end development.  
-I enjoy building practical APIs, organizing code with clean architecture principles, working with databases, and improving my technical English every day.
+I'm a Systems Analysis and Development student focused on **macOS/iOS Native Development (Swift/SwiftUI)** and **Back-End Engineering**.  
+I enjoy creating fluid Apple ecosystem applications, building scalable APIs, applying clean architecture, and improving my technical English every day.
 
 - 🎓 Systems Analysis and Development student
-- 💻 Focused on back-end development
-- 🧠 Learning software architecture, APIs, databases, and authentication
+- 🍎 Passionate about **macOS & iOS Native Development** (SwiftUI / Swift)
+- 💻 Back-end developer experienced with Node.js & PostgreSQL
+- 🧠 Learning system APIs, low-level macOS frameworks (CoreAudio, IOKit, AppKit), and clean architecture
 - 🌍 Passionate about technology and English
-- 🚀 Building real projects to become a stronger developer
+- 🚀 Building real-world applications to become an exceptional engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,js,nodejs,express,postgres,git,github,vscode" />
 </div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 [RotaBus API](https://github.com/gleissondouglas/RotaBus-API)
+### 🏝️ [DynamicMac](https://github.com/gleissondouglas/DynamicMac)
+A native, fluid, and highly responsive **Dynamic Island for macOS** built with Swift & SwiftUI.
 
+**Main features:**
+- Touch ID & Password native unlock animation with SF Symbol transitions
+- AirPods Pro & Bluetooth audio detection via CoreAudio
+- MacBook Trackpad Haptic Feedback (Taptic Engine)
+- Real-time battery charger connection (IOKit) & system observers
+- Smooth physical spring elastic animations
+
+**Tech stack:** Swift 5, SwiftUI, CoreAudio, IOKit, AppKit, Accessibility API
+
+---
+
+### 🚌 [RotaBus API](https://github.com/gleissondouglas/RotaBus-API)
 Back-end API for public transport route planning.
 
 **Main features:**
-- User registration
-- Login with JWT authentication
-- Protected journey routes
-- Google Routes API integration
+- User registration & JWT authentication
+- Protected journey routes & Google Routes API integration
 - PostgreSQL database with Prisma ORM
-- Modular architecture with routes, controllers, services, validators, repositories, providers, and mappers
+- Modular architecture with routes, controllers, services, repositories, and mappers
 
-**Tech stack:** Node.js, Express, PostgreSQL, Prisma, JWT, bcrypt, Google Routes API
+**Tech stack:** Node.js, Express, PostgreSQL, Prisma ORM, JWT, bcrypt, Google Routes API
 
 ---
 
 ## 🎯 Current Goals
 
-- Build more complete back-end applications
-- Improve API architecture and code organization
-- Learn databases more deeply
+- Build advanced native applications for macOS & iOS
+- Deepen knowledge in Apple System Frameworks (CoreAudio, IOKit, Swift Concurrency)
+- Improve API architecture and clean code principles
 - Strengthen my technical English
-- Create a professional portfolio on GitHub
+- Maintain a standout open-source portfolio on GitHub
 
 ---
 
 ## 📚 Currently Learning
 
-- REST APIs
-- Authentication with JWT
-- PostgreSQL and Prisma ORM
-- Clean code practices
-- Back-end project structure
-- English for technology
+- Swift 5 & SwiftUI Advanced Animations
+- macOS & iOS System Engineering
+- REST APIs & Microservices
+- Authentication & Security (JWT, OAuth)
+- Technical English for International Teams
 
 ---
 
 ## 🤝 Connect with me
 
 <div align="left">
-  <a href="https://github.com/gleissondouglas" target="_blank">GitHub</a>
+  <a href="https://github.com/gleissondouglas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
