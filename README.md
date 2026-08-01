@@ -2,7 +2,7 @@
 
 # Hello, I'm Gleisson Douglas 👋
 
-### macOS & iOS Developer • Back-End Developer • Systems Analysis and Development Student
+### macOS & Node.js • Back-End Developer • Systems Analysis and Development Student
 
 </div>
 
