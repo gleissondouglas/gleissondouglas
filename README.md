@@ -2,7 +2,7 @@
 
 # Hello, I'm Gleisson Douglas 👋
 
-### macOS & Node.js • Back-End Developer • Systems Analysis and Development Student
+###Node.js • Back-End Developer • Systems Analysis and Development Student
 
 </div>
 
@@ -22,7 +22,7 @@ I enjoy creating fluid Apple ecosystem applications, building scalable APIs, app
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=swift,apple,js,nodejs,express,postgres,git,github,vscode" />
@@ -30,21 +30,8 @@ I enjoy creating fluid Apple ecosystem applications, building scalable APIs, app
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏝️ [DynamicMac](https://github.com/gleissondouglas/DynamicMac)
-A native, fluid, and highly responsive **Dynamic Island for macOS** built with Swift & SwiftUI.
-
-**Main features:**
-- Touch ID & Password native unlock animation with SF Symbol transitions
-- AirPods Pro & Bluetooth audio detection via CoreAudio
-- MacBook Trackpad Haptic Feedback (Taptic Engine)
-- Real-time battery charger connection (IOKit) & system observers
-- Smooth physical spring elastic animations
-
-**Tech stack:** Swift 5, SwiftUI, CoreAudio, IOKit, AppKit, Accessibility API
-
----
 
 ### 🚌 [RotaBus API](https://github.com/gleissondouglas/RotaBus-API)
 Back-end API for public transport route planning.
@@ -59,7 +46,7 @@ Back-end API for public transport route planning.
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Build advanced native applications for macOS & iOS
 - Deepen knowledge in Apple System Frameworks (CoreAudio, IOKit, Swift Concurrency)
@@ -69,7 +56,7 @@ Back-end API for public transport route planning.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Swift 5 & SwiftUI Advanced Animations
 - macOS & iOS System Engineering
@@ -79,7 +66,7 @@ Back-end API for public transport route planning.
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 <div align="left">
   <a href="https://github.com/gleissondouglas" target="_blank">
@@ -90,5 +77,5 @@ Back-end API for public transport route planning.
 ---
 
 <div align="center">
-  <b>Always learning. Always building. 🚀</b>
+  <b>Always learning. Always building.</b>
 </div>
