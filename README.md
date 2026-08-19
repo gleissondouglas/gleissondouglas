@@ -8,18 +8,21 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm a Systems Analysis and Development student focused on **macOS/iOS Native Development (Swift/SwiftUI)** and **Back-End Engineering**.  
-I enjoy creating fluid Apple ecosystem applications, building scalable APIs, applying clean architecture, and improving my technical English every day.
+I’m a Systems Analysis and Development student focused on Back-End Engineering and native Apple development.
 
-- 🎓 Systems Analysis and Development student
-- 🍎 Passionate about **macOS & iOS Native Development** (SwiftUI / Swift)
-- 💻 Back-end developer experienced with Node.js & PostgreSQL
-- 🧠 Learning system APIs, low-level macOS frameworks (CoreAudio, IOKit, AppKit), and clean architecture
-- 🌍 Passionate about technology and English
-- 🚀 Building real-world applications to become an exceptional engineer
+I build back-end applications with Node.js, Express, PostgreSQL, and Prisma, while exploring native development for macOS and iOS using Swift and SwiftUI.
 
+I’m particularly interested in software architecture, system APIs, authentication, database design, and building reliable applications from the ground up.
+
+• 🎓 Systems Analysis and Development student
+• 💻 Back-End development with Node.js & PostgreSQL
+• 🍎 Native macOS & iOS development with Swift & SwiftUI
+• 🧠 Exploring AppKit, Vision, IOKit, CoreAudio, and Swift Concurrency
+• 🔐 Interested in API security, authentication, and system design
+• 🌍 Improving my technical English for international environments
+• 🚀 Building real-world projects and continuously improving my engineering skills
 ---
 
 ## Tech Stack
