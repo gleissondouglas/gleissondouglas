@@ -17,12 +17,19 @@ I build back-end applications with Node.js, Express, PostgreSQL, and Prisma, whi
 I’m particularly interested in software architecture, system APIs, authentication, database design, and building reliable applications from the ground up.
 
 • 🎓 Systems Analysis and Development student
+
 • 💻 Back-End development with Node.js & PostgreSQL
+
 • 🍎 Native macOS & iOS development with Swift & SwiftUI
+
 • 🧠 Exploring AppKit, Vision, IOKit, CoreAudio, and Swift Concurrency
+
 • 🔐 Interested in API security, authentication, and system design
+
 • 🌍 Improving my technical English for international environments
+
 • 🚀 Building real-world projects and continuously improving my engineering skills
+
 ---
 
 ## Tech Stack
