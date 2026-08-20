@@ -6,7 +6,7 @@
 
 </div>
 
----
+----
 
 ## 👨‍💻 About Me
 
@@ -30,7 +30,7 @@ I’m particularly interested in software architecture, system APIs, authenticat
 
 • 🚀 Building real-world projects and continuously improving my engineering skills
 
----
+----
 
 ## Tech Stack
 
@@ -38,7 +38,7 @@ I’m particularly interested in software architecture, system APIs, authenticat
   <img src="https://skillicons.dev/icons?i=swift,apple,js,nodejs,express,postgres,git,github,vscode" />
 </div>
 
----
+----
 
 ## Featured Projects
 
@@ -54,7 +54,7 @@ Back-end API for public transport route planning.
 
 **Tech stack:** Node.js, Express, PostgreSQL, Prisma ORM, JWT, bcrypt, Google Routes API
 
----
+----
 
 ## Current Goals
 
@@ -84,7 +84,7 @@ Back-end API for public transport route planning.
   </a>
 </div>
 
----
+----
 
 <div align="center">
   <b>Always learning. Always building.</b>
