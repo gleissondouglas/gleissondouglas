@@ -2,7 +2,7 @@
 
 # Hello, I'm Gleisson Douglas 👋
 
-###Node.js • Back-End Developer • Systems Analysis and Development Student
+###Node.js • Back-End Developer • Systems Analysis and Development Student###
 
 </div>
 
