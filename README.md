@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hello, I'm Gleisson Douglas 👋
+# Hello, I'm Gleisson Douglas
 
 Node.js • Back-End Developer • Systems Analysis and Development Student
 
 </div>
 
-----
+---
 
 ## 👨‍💻 About Me
 
