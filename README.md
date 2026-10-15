@@ -2,7 +2,7 @@
 
 # Hello, I'm Gleisson Douglas
 
-Node.js • Back-End Developer • Systems Analysis and Development Student
+Node.js | Java • Back-End Developer • Systems Analysis and Development Student
 
 </div>
 
@@ -12,7 +12,7 @@ Node.js • Back-End Developer • Systems Analysis and Development Student
 
 I’m a Systems Analysis and Development student focused on Back-End Engineering and native Apple development.
 
-I build back-end applications with Node.js, Express, PostgreSQL, and Prisma, while exploring native development for macOS and iOS using Swift and SwiftUI.
+I build back-end applications with Node.js, Express, PostgreSQL, and Prisma, while exploring native development for macOS and iOS using Swift and SwiftUI
 
 I’m particularly interested in software architecture, system APIs, authentication, database design, and building reliable applications from the ground up.
 
@@ -28,7 +28,7 @@ I’m particularly interested in software architecture, system APIs, authenticat
 
 • 🌍 Improving my technical English for international environments
 
-• 🚀 Building real-world projects and continuously improving my engineering skills
+• Building real-world projects and continuously improving my engineering skills
 
 ----
 
@@ -43,7 +43,7 @@ I’m particularly interested in software architecture, system APIs, authenticat
 ## Featured Projects
 
 
-### 🚌 [RotaBus API](https://github.com/gleissondouglas/RotaBus-API)
+###  [RotaBus API](https://github.com/gleissondouglas/RotaBus-API)
 Back-end API for public transport route planning.
 
 **Main features:**
