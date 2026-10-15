@@ -18,7 +18,7 @@ I’m particularly interested in software architecture, system APIs, authenticat
 
 • 🎓 Systems Analysis and Development student
 
-• 💻 Back-End development with Node.js & PostgreSQL
+• 💻 Back-End development with Node.js | Java & PostgreSQL
 
 • 🍎 Native macOS & iOS development with Swift & SwiftUI
 
