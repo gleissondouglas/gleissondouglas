@@ -12,7 +12,7 @@ Node.js | Java • Back-End Developer • Systems Analysis and Development Stude
 
 I’m a Systems Analysis and Development student focused on Back-End Engineering and native Apple development.
 
-I build back-end applications with Node.js, Express, PostgreSQL, and Prisma, while exploring native development for macOS and iOS using Swift and SwiftUI
+I build back-end applications with Node.js, Java, Express, PostgreSQL, and Prisma, while exploring native development for macOS and iOS using Swift and SwiftUI
 
 I’m particularly interested in software architecture, system APIs, authentication, database design, and building reliable applications from the ground up.
 
